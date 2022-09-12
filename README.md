@@ -15,7 +15,7 @@ python keycaps.py
 ```
 
 ```
-To stop it from running:
+To stop the running script:
 
 CTRL + C
 ```
