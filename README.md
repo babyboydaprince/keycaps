@@ -4,7 +4,7 @@
 Undetectable python script which runs in background capturing keystrokes and
 saving them to a local file or sending them to a specific email address.
 
-![alt text](https://github.com/babyboydaprince/macwizard/blob/main/img/logo.png?raw=true)
+![alt text](https://github.com/babyboydaprince/keycaps/blob/main/img/keycaps%20banner.jpg?raw=true)
 
 ## 🚀 Run
 
